@@ -1,0 +1,66 @@
+.{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/191/285/desktop-wallpaper-love-romantic-love-couple-romantic-love-couple.jpg);
+    background-size: 100% 340%;
+
+
+}
+.contain{
+    width: 200px;
+    height: 200px;
+    text-align: black;
+    margin-left: 36%;
+    margin-top: 50%;
+    text-align: center;
+    color: blue;
+}
+.inp1{
+    border: none;
+    background-color: black ;
+    border-bottom: 3px solid white;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: antiquewhite;
+}
+
+.inp2{
+    border: none;
+    background-color: black ;
+    border-bottom: 3px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: antiquewhite;
+}
+p{
+    margin-top: 30px;
+    font-size: 22px;
+}
+p span{
+    color: aqua;
+}
+
+
+.text botton{
+    width: 250px;
+    height: 44px;
+    background-color: aquamarine;
+    color: blueviolet;
+    border: none;
+    font-size: 24px;
+    border-radius: 25%;
+    border-top: 20px;
+}
+button:hover{
+    border: 3px solid green;
+    color: blueviolet;
+    font-size: 20px;
+    background-color: black;
+}
+
