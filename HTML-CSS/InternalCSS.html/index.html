@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My WebSite</title>
+    <style>
+        p{
+            color: rebeccapurple;
+        }
+
+        h2{
+            /* this color not work*/
+            color: royalblue;
+            /* font size is still applied, because the conflict is about the color property */
+            font-size: 30px;
+        }
+        /* this is work because id is defened 
+         changing same tag colors */
+        #Company{
+            color: green; 
+            
+
+        }
+
+    </style>
+    
+</head>
+<body>
+    <h2 id="Company">Tech Company</h2>
+    <p>Dell</p>
+    <p>Apply</p>
+
+    <h2>Phone</h2>
+    <p>Pixel</p>
+    <p>Galaxy S</p>
+
+    
+</body>
+</html>

@@ -14,10 +14,14 @@ a{
 li{
     list-style: none;
 }
-
 .navbar{
     width: 90%;
     margin: auto;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr) ;
 }
 
 .nav-container{
@@ -38,18 +42,9 @@ li{
     color:black;
 }
 
-.nav-container .nav{
-    justify-self: flex-end;
-    display: flex;
-}
-.nav-container .nav a{
-    margin: 0 20px;
-    color: black;
-}
-
-.nav-container .nav .active{
+.nav-container .nav a .active{
     background: #333;
-    color: white;
+    color: aquamarine;
     padding: 10px 30px;
     border-radius: 30px;
 }
@@ -119,4 +114,9 @@ li{
 .main-container div li{
     cursor: pointer;
     margin: 3px 0;
+}
+
+hr{
+    margin: 0px 0;
+    opacity: .4;
 }
