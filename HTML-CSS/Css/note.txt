@@ -1,0 +1,16 @@
+none
+solid
+dotton
+dashed
+double
+
+
+
+position
+1.top: 10px;
+2.right: 15px;
+3.bottom:23px;
+4.left:30px;
+5.position: relative;
+6.position: absolute;
+7.position: fixed;

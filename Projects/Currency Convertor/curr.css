@@ -39,6 +39,35 @@ select{
     font-size: 1.2em;
     cursor: pointer;
     background: #0066FF ;
+    outline: none;
+    color: black;
+    margin: 0.2em 0;
+    padding: 0 lem;
+    border-radius: 10px;
+    border: none;
     
-    
+}
+
+input{
+    width: 95%;
+    height: 40px;
+    font-size: lem;
+    margin: 0.2em 0;
+    border-radius: 10px;
+    border: none;
+    background: #cccccc;
+    outline: none;
+    padding: 0 lem;
+}
+
+.btn{
+    width: 98%;
+    height: 40px;
+    background: #0066FF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: lem;
+    margin: 0.5em 0;
 }
