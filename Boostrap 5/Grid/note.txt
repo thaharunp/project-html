@@ -1,0 +1,18 @@
+Bootstrap Grid features
+. Booststrap's grid system allows up to 12 colums across the page
+. Rows
+. Clolumns
+. Supports various screen resolutuins like xs, sm, md, lg, xl
+
+12 coloums - span  span  span  span     span  span  span  span      span  span  span  span
+      1.         1    1     1      1       1     1     1     1          1     1     1     1
+                     
+      2.              4                         4                             4
+
+       3.                4                                       8
+
+       4.                         6                                  6
+
+       5.                                  12       
+                    
+
